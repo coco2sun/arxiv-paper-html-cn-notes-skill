@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arxiv Paper HTML Notes"
+  short_description: "Generate Chinese HTML paper notes from arXiv links."
+  default_prompt: "根据一个或多个 arXiv 链接生成中文 HTML 论文笔记。"
