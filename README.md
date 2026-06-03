@@ -1,4 +1,4 @@
-# sun-skills
+# arxiv-paper-html-cn-notes-skill
 
 This repository stores reusable AI-agent skills. The current skill is:
 
